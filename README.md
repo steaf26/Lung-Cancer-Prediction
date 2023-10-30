@@ -89,41 +89,7 @@ Run the project
 
 
 
-# Hi, I'm Athang! 👋
+# Hi, I'm steaf! 👋
 
 
-
-## 🚀 About Me
-
-
-I want to become a data scientist.
-I'm now learning about data visualization and machine learning.
-
-
-
-## 🔗 Connect with me
-[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Athang9)
-
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on... Machine Learning and Data Visualization
-
-
-🧠 I'm currently learning... Machine Learning
-
-
-👯‍♀️ I'm looking to collaborate on... Data Science Projects
-
-
-🤔 I'm looking for help with... Azure and PowerBI
-
-
-💬 Ask me about... Anything 
-
-
-📫 How to reach me... <a href="https://linktr.ee/Athang9"> Click here </a>
-
-
-😄 Pronouns... he/him
 
