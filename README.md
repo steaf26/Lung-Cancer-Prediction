@@ -18,11 +18,12 @@ This system utilizes Machine Learning techniques to predict Lung Cancer based 
 ## Quick look of Application
 
 
-![](Image%202.png)
+
+![](https://github.com/anishharam5/Lung-Cancer-Prediction/assets/38319227/e1705ac4-e368-470a-ae53-6549832646cb)
 
 
 
-## Demo
+<!---## Demo
 
 
 
@@ -30,7 +31,7 @@ This system utilizes Machine Learning techniques to predict Lung Cancer based 
 
 
 
-![](demo1.gif)
+![](demo1.gif)-->
 
 
 ## Tech Stack
@@ -89,7 +90,12 @@ Run the project
 
 
 
-# Hi, I'm steaf! 👋
+# Hi, I'm Anish! 👋
 
 
 
+## 🚀 About Me
+
+
+I want to become a data scientist.
+I'm now learning about data visualization and machine learning.
